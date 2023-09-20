@@ -1,0 +1,8 @@
+{
+  "name": "Tukan Go",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "66b0187f"
+}
